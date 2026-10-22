@@ -5,6 +5,9 @@ An enterprise-grade Business Intelligence platform built for wealth management e
 
 Designed and engineered from scratch, transforming raw transactional data into high-performance executive decision-making tools.
 
+![Wealth Management Dashboard Preview]
+<img width="1197" height="672" alt="dashboard-preview" src="https://github.com/user-attachments/assets/977d4c1b-9acd-4a40-be40-61e2ee088bfd" />
+
 ---
 
 ## 🏗️ Architecture & Data Pipeline

@@ -34,3 +34,21 @@ Designed and engineered from scratch, transforming raw transactional data into h
 * **Data Transformation:** Power Query, ETL Logic
 * **DAX & Modeling:** Power BI Desktop, Calculated Columns, Measures, Variables (`VAR`)
 * **UI/UX Design:** Executive 16:9 Dark Theme Widescreen UI
+
+## 💡 Executive Insights & Strategic Recommendations
+
+### 1. Revenue Concentration Risk
+* **Insight:** Fee-based revenue is heavily skewed toward **Retirement ($258.4M)** and **Corporate Services ($96.1M)**, accounting for over 90% of total revenue yield. Equity and Compliance lines remain severely under-monetized (<$35M combined).
+* **Strategic Action:** Restructure advisory fee tiers and deploy targeted cross-selling campaigns to high-AUM clients in the Equity division to diversify revenue streams.
+
+### 2. Capital Flow vs. Market Volatility
+* **Insight:** Total AUM peaked above **$4.6T+ in 2022**, strongly supported by organic Net Asset Flows ($8.34B+). However, inflows flattened significantly in 2023 due to macroeconomic headwinds and shifting yield environments.
+* **Strategic Action:** Strengthen liquidity buffers and shift wealth advisors toward defensive yield products (e.g., fixed income/money market) during market deceleration phases to prevent capital flight.
+
+### 3. Quarterly Attrition & Churn Patterns
+* **Insight:** While overall client churn remains controlled at **13.93%**, quarterly trend analysis revealed sharp localized attrition spikes during Q3 cycles (reaching up to ~3.2% per quarter).
+* **Strategic Action:** Implement automated client health tracking in CRM to trigger mandatory relationship manager outreach 30 days prior to Q3 cycle dates.
+
+### 4. Portfolio Compliance & Risk Exposure
+* **Insight:** Risk tier segmentation indicates that **~87.5% of active clients (381 accounts)** are categorized in the **High Risk** bracket based on volatility and asset concentration.
+* **Strategic Action:** Risk management teams must initiate a portfolio rebalancing audit for high-net-worth accounts to mitigate downside exposure and satisfy regulatory compliance guidelines.
